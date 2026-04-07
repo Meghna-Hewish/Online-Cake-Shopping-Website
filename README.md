@@ -63,26 +63,32 @@ The system includes:
 - Database  
 
 ### Architecture Diagram
-(Add your architecture image here if uploaded)
+<img width="603" height="729" alt="architecturediagram" src="https://github.com/user-attachments/assets/74aa5e00-ce53-4238-8830-c1bf98de31fa" />
+
 
 ---
 
 ## 📷 Screenshots
 
 ### Home Page
-(Add screenshot here)
+<img width="592" height="573" alt="homepage" src="https://github.com/user-attachments/assets/9b5887f4-0c20-4493-ac75-68d1f2882c2d" />
+
 
 ### Admin Login
-(Add screenshot here)
+<img width="602" height="566" alt="adminlogin" src="https://github.com/user-attachments/assets/3a190aed-cb67-465a-8e7f-2affb42e5df8" />
+
 
 ### Feedback Form
-(Add screenshot here)
+<img width="620" height="366" alt="feedbackform" src="https://github.com/user-attachments/assets/4d54011f-af8d-4c81-b39b-1b188be7ebcf" />
+
 
 ### Customize Order
-(Add screenshot here)
+<img width="539" height="302" alt="customiseorder" src="https://github.com/user-attachments/assets/d39c484d-7b90-46a3-9bd6-68d5a2557f4d" />
+
 
 ### Order Page
-(Add screenshot here)
+<img width="540" height="535" alt="oederpage" src="https://github.com/user-attachments/assets/cb0a7835-a2b9-4e03-90c5-4babb6a72e2e" />
+
 
 ---
 
