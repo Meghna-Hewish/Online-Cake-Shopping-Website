@@ -1,9 +1,11 @@
 # 🎂 Online Cake Shopping Website
 
-A web-based application that allows users to browse, customize, and order cakes online, providing a convenient and efficient shopping experience.
+
+**Full-stack web application for online cake ordering with admin panel, user authentication, and customizable orders.**
+
+💡 Built using PHP, HTML, CSS with XAMPP-based local server architecture.
 
 ---
-
 ## 🚀 Overview
 
 This project is an online cake ordering system where customers can browse different cakes, add them to a cart, customize orders, and place orders online. The system also includes an admin module to manage users and orders.
@@ -50,7 +52,8 @@ This system provides a digital solution for managing cake orders efficiently.
 - Add to cart and place order  
 - Customize cake (flavour, size, etc.)  
 - Admin panel to manage users and orders  
-- Feedback system  
+- Feedback system
+- Responsive and user-friendly interface 
 
 ---
 
@@ -87,20 +90,20 @@ The system includes:
 
 
 ### Order Page
-<img width="540" height="535" alt="oederpage" src="https://github.com/user-attachments/assets/cb0a7835-a2b9-4e03-90c5-4babb6a72e2e" />
+<img width="540" height="535" alt="orderpage" src="https://github.com/user-attachments/assets/cb0a7835-a2b9-4e03-90c5-4babb6a72e2e" />
 
 
 ---
 
 ## ▶️ How to Run
 
-This project is based on PHP and requires a local server (XAMPP).
+This project is built using PHP and requires a local server environment (XAMPP) to run.
 
 To understand the project:
 
 1. Review the project report  
 2. Explore system design and screenshots  
-3. Understand workflow and features  
+3. Understand the workflow and features  
 
 ---
 
